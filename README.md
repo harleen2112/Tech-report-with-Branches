@@ -16,4 +16,13 @@ Google One – Dark Web Report (for Gmail accounts):
 
 🔗 https://one.google.com → Sign in, then go to “Dark Web Report” under “Privacy & Security
 
+What is the Dark Web Used For?
+The dark web is often associated with illegal activities due to its anonymous nature. However, it is also used for legitimate purposes, such as:
+
+Whistleblowing and activist communication.
+
+Protecting privacy in countries with restrictive internet laws.
+
+Secure communications for journalists.
+
 
